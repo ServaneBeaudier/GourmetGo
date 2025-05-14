@@ -1,4 +1,4 @@
-Projet : Site de livraison GourmetGO
+Projet : Site de livraison GourmetGo
 Durée : 10 jours
 Équipe : 3 personnes
 
